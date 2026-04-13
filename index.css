@@ -1,3 +1,15 @@
+#projects
+	{
+		margin bottom:0.5rem !important;
+		padding: 3rem !important;
+	}
+
+#tools{
+	width: 120px !important;
+    height: auto !important;
+}
+
+
 body
 	{
   background: url(https://t3.ftcdn.net/jpg/01/52/33/56/240_F_152335695_Wu52CHbjdnrQUxzObymMMUYcDCebGh3d.jpg) !important;
