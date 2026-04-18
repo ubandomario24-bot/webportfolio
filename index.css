@@ -1,4 +1,19 @@
-<<<<<<< HEAD
+body
+	{
+  background: url(https://www.pixelstalk.net/wp-content/uploads/images6/Aesthetic-Baby-Blue-Photo.jpg) !important;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+
+
+body{
+	min-height: 100vh;
+	width: 100vw;
+	background-color:none;
+	overflow-x: hidden;
+}
+
 .sidebar-toggler {
     background: black;
     border: none;
@@ -7,35 +22,26 @@
     align-items: center;
     cursor: pointer;
     transition: opacity 0.3s ease;
-=======
+
 nav{
     height: 60px !important;
     background-color:skyblue !important;
     display: flex !important;
     justify-content:flex-end !important;
-	
     align-items: center !important;
     border-radius: 20px !important;
     margin: 20px !important;
     padding: 0.5rem !important;
 
-    align-items: center!important;
-    border-radius: 20px !important;
-    margin: 20px !important;
-    padding: 0.5rem!important;
-
 .links-container{
     height: 100% !important;
     width: 100% !important;
     display: flex !important;
-
     flex-direction: row !important;
     align-items: center !important;
     justify-content: flex-start !important;
 
-    flex-direction: row!important;
-    align-items: center!important;
-    justify-content: flex-start!important;
+
 nav a{
     position: relative !important;
     height:100% !important;
@@ -79,7 +85,6 @@ a:before{
 }
  nav a:hover{
     color:black !important;
->>>>>>> e9fec11baca4dfdb93ae8a847c020eacfcd1277c
 }
 
 .sidebar-toggler:hover {
@@ -128,23 +133,6 @@ a:before{
 	width: 120px !important;
     height: auto !important;
     justify-content: center;
-}
-
-
-body
-	{
-  background: url(https://www.pixelstalk.net/wp-content/uploads/images6/Aesthetic-Baby-Blue-Photo.jpg) !important;
-  background-size: cover;
-  width: 100%;
-  height: 100vh;
-}
-
-
-body{
-	min-height: 100vh;
-	width: 100vw;
-	background-color:none;
-	overflow-x: hidden;
 }
 
 .title{
