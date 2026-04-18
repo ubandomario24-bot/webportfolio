@@ -1,5 +1,9 @@
 body
+<<<<<<< HEAD
     {
+=======
+	{
+>>>>>>> 8d758acbdd3bece11a576490d1c8de3bff03f38c
   background: url(https://www.pixelstalk.net/wp-content/uploads/images6/Aesthetic-Baby-Blue-Photo.jpg) !important;
   background-size: cover;
   width: 100%;
@@ -8,11 +12,20 @@ body
 
 
 body{
+<<<<<<< HEAD
     min-height: 100vh;
     width: 100vw;
     background-color:none;
     overflow-x: hidden;
 }
+=======
+	min-height: 100vh;
+	width: 100vw;
+	background-color:none;
+	overflow-x: hidden;
+}
+
+>>>>>>> 8d758acbdd3bece11a576490d1c8de3bff03f38c
 .sidebar-toggler {
     background: black;
     border: none;
@@ -27,7 +40,6 @@ nav{
     background-color:skyblue !important;
     display: flex !important;
     justify-content:flex-end !important;
-	
     align-items: center !important;
     border-radius: 20px !important;
     margin: 20px !important;
@@ -37,11 +49,14 @@ nav{
     height: 100% !important;
     width: 100% !important;
     display: flex !important;
-
     flex-direction: row !important;
     align-items: center !important;
     justify-content: flex-start !important;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8d758acbdd3bece11a576490d1c8de3bff03f38c
 nav a{
     position: relative !important;
     height:100% !important;
@@ -85,6 +100,10 @@ a:before{
 }
  nav a:hover{
     color:black !important;
+<<<<<<< HEAD
+=======
+}
+>>>>>>> 8d758acbdd3bece11a576490d1c8de3bff03f38c
 
 .sidebar-toggler:hover {
     opacity: 0.7;
@@ -133,8 +152,11 @@ a:before{
     justify-content: center;
 }
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 8d758acbdd3bece11a576490d1c8de3bff03f38c
 .title{
 
 	font-family: Montserrat;
