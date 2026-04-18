@@ -27,25 +27,25 @@ body{
 	overflow-x: hidden;
 }
 nav{
-    height: 60px;
-    background-color:skyblue;
-    display: flex;
-    justify-content:flex-end;
-    align-items: center;
-    border-radius: 20px;
-    margin: 20px;
-    padding: 0.5rem;
+    height: 60px !important;
+    background-color:skyblue !important;
+    display: flex !important;
+    justify-content:flex-end !important;
+    align-items: center!important;
+    border-radius: 20px !important;
+    margin: 20px !important;
+    padding: 0.5rem!important;
 
 
 }
 
 .links-container{
-    height: 100%;
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: flex-start;
+    height: 100% !important;
+    width: 100% !important;
+    display: flex !important;
+    flex-direction: row!important;
+    align-items: center!important;
+    justify-content: flex-start!important;
 }
 nav a{
     position: relative;
