@@ -3,10 +3,17 @@ nav{
     background-color:skyblue !important;
     display: flex !important;
     justify-content:flex-end !important;
+<<<<<<< HEAD
     align-items: center !important;
     border-radius: 20px !important;
     margin: 20px !important;
     padding: 0.5rem !important;
+=======
+    align-items: center!important;
+    border-radius: 20px !important;
+    margin: 20px !important;
+    padding: 0.5rem!important;
+>>>>>>> 0a1c8dba09c66c7bf22ce5fb9e5641ba183691ee
 
 
 }
@@ -15,9 +22,15 @@ nav{
     height: 100% !important;
     width: 100% !important;
     display: flex !important;
+<<<<<<< HEAD
     flex-direction: row !important;
     align-items: center !important;
     justify-content: flex-start !important;
+=======
+    flex-direction: row!important;
+    align-items: center!important;
+    justify-content: flex-start!important;
+>>>>>>> 0a1c8dba09c66c7bf22ce5fb9e5641ba183691ee
 }
 nav a{
     position: relative !important;
