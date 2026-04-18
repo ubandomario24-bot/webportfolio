@@ -1,4 +1,4 @@
-.body
+body
 	{
   background: url(https://www.pixelstalk.net/wp-content/uploads/images6/Aesthetic-Baby-Blue-Photo.jpg) !important;
   background-size: cover;
@@ -7,7 +7,7 @@
 }
 
 
-.body{
+body{
 	min-height: 100vh;
 	width: 100vw;
 	background-color:none;
